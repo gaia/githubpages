@@ -1,2 +1,1 @@
-# githubpages
-# https://github.com/blog/272-github-pages
+No cookie for you.
